@@ -1,19 +1,27 @@
-# Phillip Green | Senior Engineering Leader
+Hi there, I'm Phillip Green
 
-🚀 **Head of Product & Engineering** | Rust • Python • AI/ML • DevOps
+I'm a Senior Engineering Leader and the Head of Product & Engineering with a passion for building innovative solutions from the ground up. I specialize in leading teams to deliver complex projects efficiently, blending hands-on expertise in Rust, Python, and AI/ML with a strategic vision for product development.
 
-Just architected and shipped an AI-powered architectural analysis platform from concept to production in under 10 months.
+Recent Highlight
 
-## 🔧 Technical Expertise
-- **Languages:** Rust, Python, SQL
-- **AI/ML:** Ollama, DeepSeek-Coder, RAG, LLMs
-- **Infrastructure:** WASM, Tokio, Docker, CI/CD, Azure
-- **Architecture:** C4 Models, ADRs, Solutions Architecture
+I recently designed and shipped a complete codebase architectural analysis platform, taking it from initial concept to a full production release in under 10 months.
 
-## 💼 Currently Available
-Open for remote contract work (immediately available)
-📧 austin@botzr.com | 📍 Oklahoma City
+Core Competencies
 
-## 🎖️ Background
+Languages: Rust, Python, SQL
+
+AI/ML: RAG, LLMs (Ollama, DeepSeek-Coder)
+
+Infrastructure & DevOps: WASM, Tokio, Docker, CI/CD, Azure
+
+Architecture: C4 Models, ADRs, Solutions Architecture
+
+Let's Connect
+
+Status: Open for remote contract opportunities.
+
+Email: austin@botzr.com
+
+Location: Oklahoma City
+
 U.S. Air Force Veteran (Staff Sergeant, 2000-2006)
-```
