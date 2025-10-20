@@ -1,16 +1,19 @@
-## Hi there 👋
+# Phillip Green | Senior Engineering Leader
 
-<!--
-**botzrDev/botzrDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Head of Product & Engineering** | Rust • Python • AI/ML • DevOps
 
-Here are some ideas to get you started:
+Just architected and shipped an AI-powered architectural analysis platform from concept to production in under 10 months.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Expertise
+- **Languages:** Rust, Python, SQL
+- **AI/ML:** Ollama, DeepSeek-Coder, RAG, LLMs
+- **Infrastructure:** WASM, Tokio, Docker, CI/CD, Azure
+- **Architecture:** C4 Models, ADRs, Solutions Architecture
+
+## 💼 Currently Available
+Open for remote contract work (immediately available)
+📧 austin@botzr.com | 📍 Oklahoma City
+
+## 🎖️ Background
+U.S. Air Force Veteran (Staff Sergeant, 2000-2006)
+```
