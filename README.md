@@ -1,4 +1,4 @@
-Hi there, I'm Phillip Green
+Hi there, I'm Phillip "Austin" Green
 
 I'm a Senior Engineering Leader and the Head of Product & Engineering with a passion for building innovative solutions from the ground up. I specialize in leading teams to deliver complex projects efficiently, blending hands-on expertise in Rust, Python, and AI/ML with a strategic vision for product development.
 
