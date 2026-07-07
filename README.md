@@ -1,20 +1,23 @@
-## Hi, I'm Austin 👋
+### Hi, I'm Austin 👋
 
-I build local-first tools for AI developers.
+I am a Rust systems engineer and solo technical founder with over 25 years of experience building high-performance infrastructure. My foundation in the US Air Force taught me early on that rigorous security is not an afterthought. It is the bedrock. 
 
-Right now I'm working on **[dreamd](https://github.com/botzrDev/dreamd)** — shared memory for AI coding agents. A plain `.agent/` folder in your repo that every MCP-aware agent (Claude Code, Cursor, Cline, OpenCode) reads and writes. What one agent learns, the next already knows. Single Rust binary. Files are the source of truth.
+Today, I apply that philosophy to the AI infrastructure landscape. I focus on "local-first" architectures and "sovereignty by design," building verifiable, open, and secure execution environments for AI agents. No marketing spin, just reproducible data and secure systems.
 
-I also do AI infrastructure consulting at [dreamd.dev/consulting](https://dreamd.dev/consulting) — helping dev teams wire MCP, AGENTS.md, and dreamd into their actual stack, live.
+### 🔭 Current Focus
 
-USAF veteran (2000–2006). Oklahoma City.
+*   **[botzr-AEGIS](#)**: A secure execution layer sitting beneath AI agent frameworks. It provides the necessary boundaries and operational control for safe, local-first deployments.
+*   **[dreamd](#)**: An open, neutral benchmark running on botzr-AEGIS. It is designed to rigorously measure how AI agents handle memory and context over time. 
+*   **[ECHOS](#)**: Pragmatic, evidence-backed security research uncovering vulnerabilities in AI agent tools and providing concrete, hands-on mitigations.
 
-### Things I'm building
+### 🛠️ Engineering Philosophy & Stack
 
-- **[dreamd](https://github.com/botzrDev/dreamd)** — Shared memory for AI coding agents. Local-first, Apache-2.0, `npx dreamd-mcp` and it's running.
-- **[uveddi](https://github.com/botzrDev/uveddi)** — WASM sandboxed execution runtime for AI agent tool calls. Secure by construction.
+*   **Core:** Rust, Systems Engineering, Local-First Architectures.
+*   **Environment:** WSL Ubuntu on Windows 11, GitHub Copilot.
+*   **Focus:** Open research, zero-hype benchmarking, and peer-reviewed infrastructure.
 
-### Around the web
+### 📫 Connect & Collaborate
 
-- X: [@wgi_dev](https://x.com/wgi_dev)
-- Site + consulting: [dreamd.dev](https://dreamd.dev)
-- Email: [austin@wegetit.dev](mailto:austin@wegetit.dev)
+I build in public because the best infrastructure is peer-reviewed. If you are an ML researcher, security analyst, or technical lead who values open-source development and honest benchmarking, feel free to review the code, open an issue, or reach out.
+
+[LinkedIn](https://www.linkedin.com/in/dreamddev/) | [X (Twitter)](https://x.com/wgi_dev)
