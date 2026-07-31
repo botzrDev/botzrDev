@@ -19,8 +19,8 @@
   Every tool call passes a policy → capability → sandbox → audit pipeline before it runs.
   Isolation is wasmtime + the WebAssembly Component Model (WASI Preview 2): default-deny
   networking, cap-std filesystem preopens, per-call memory limits, epoch-based
-  interruption. Policy evaluation benchmarks at **32 ns**, the full call path at
-  **2.7 µs**. `MIT`
+  interruption. Policy evaluation benchmarks at **32 ns**, the policy-and-capability
+  hot path at **2.7 µs**. `MIT`
 
   **[dreamd](https://github.com/botzrDev/dreamd)** — a portable memory layer for AI coding
   agents. One `.agent/` folder shared across Claude Code, Cursor, Cline, and anything else
