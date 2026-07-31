@@ -10,7 +10,8 @@
   operations and held a Secret clearance. That's where I learned security isn't a layer
   you add later.
 
-  Everything below is open source, local-first, and measured rather than asserted.
+  Everything below is local-first and measured rather than asserted. Open source and
+  source-available both — licenses vary, so check each project.
 
   ### 🔭 What I'm building
 
@@ -30,11 +31,13 @@
 
   **[mcp-guard](https://github.com/botzrDev/mcp-guard)** — a security gateway for Model
   Context Protocol servers. stdio, HTTP, and SSE transports, with API key authentication,
-  JWT validation, OAuth 2.1, and per-tool authorization. `AGPL-3.0`
+  JWT validation, OAuth 2.1, and per-tool authorization. `AGPL-3.0` core, with commercial
+  Pro and Enterprise tiers.
 
   **[uveddi](https://github.com/botzrDev/uveddi)** — multi-language architectural analysis
   across Rust, Python, JavaScript, and TypeScript. Tree-sitter based, with SARIF security
-  export and WebAssembly plugin support.
+  export and WebAssembly plugin support. `CC BY-NC-SA 4.0` — source-available, not OSI
+  open source.
 
   **ECHOS** *(unreleased — no public repo yet)* — security research into how agent
   tooling actually fails, disclosed privately before publication. Findings, not
