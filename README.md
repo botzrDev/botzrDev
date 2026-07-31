@@ -15,11 +15,12 @@
   ### 🔭 What I'm building
 
   **[botzr-aegis](https://github.com/botzrDev/aegis)** — a capability-based execution
-  runtime for AI agent tools. Nine crates on crates.io. Every tool call passes a policy →
-  capability → sandbox → audit pipeline before it runs. Isolation is wasmtime + the
-  WebAssembly Component Model (WASI Preview 2): default-deny networking, cap-std filesystem
-  preopens, per-call memory limits, epoch-based interruption. Policy evaluation benchmarks
-  at **32 ns**, the full call path at **2.7 µs**. `MIT`
+  runtime for AI agent tools. Eight crates on crates.io — `cargo install botzr-aegis-cli`.
+  Every tool call passes a policy → capability → sandbox → audit pipeline before it runs.
+  Isolation is wasmtime + the WebAssembly Component Model (WASI Preview 2): default-deny
+  networking, cap-std filesystem preopens, per-call memory limits, epoch-based
+  interruption. Policy evaluation benchmarks at **32 ns**, the full call path at
+  **2.7 µs**. `MIT`
 
   **[dreamd](https://github.com/botzrDev/dreamd)** — a portable memory layer for AI coding
   agents. One `.agent/` folder shared across Claude Code, Cursor, Cline, and anything else
@@ -35,8 +36,9 @@
   across Rust, Python, JavaScript, and TypeScript. Tree-sitter based, with SARIF security
   export and WebAssembly plugin support.
 
-  **ECHOS** — security research into how agent tooling actually fails, responsibly
-  disclosed. Findings, not think-pieces.
+  **ECHOS** *(unreleased — no public repo yet)* — security research into how agent
+  tooling actually fails, disclosed privately before publication. Findings, not
+  think-pieces.
 
   ### 📄 Writing
 
