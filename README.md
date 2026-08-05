@@ -1,8 +1,13 @@
 
 ### Hi, I'm Austin 👋
 
-  **Lead Infrastructure Engineer.** Distributed systems, Rust, and the layer AI agents
-  actually run on.
+  **Lead Infrastructure Engineer.** I build capability and policy enforcement for
+  untrusted code: the layer that decides what an AI agent is allowed to touch, and
+  proves what it touched afterwards.
+
+  Both sides of that problem. On the building side, a runtime and eight crates on
+  crates.io. On the breaking side, four findings across two third-party MCP servers,
+  CVSS 8.1 to 9.0 by my own assessment, coordinated disclosure in progress.
 
   I spent a decade operating production infrastructure — Linux and Windows Server,
   virtualization, identity, networking, incident response — before moving to systems
