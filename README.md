@@ -5,9 +5,7 @@
   untrusted code: the layer that decides what an AI agent is allowed to touch, and
   proves what it touched afterwards.
 
-  Both sides of that problem. On the building side, a runtime and eight crates on
-  crates.io. On the breaking side, four findings across two third-party MCP servers,
-  CVSS 8.1 to 9.0 by my own assessment, coordinated disclosure in progress.
+Both sides of that problem. On the building side, a runtime and eight crates on crates.io. On the breaking side, adversarial testing of third-party MCP servers, coordinated disclosure in progress.
 
   I spent a decade operating production infrastructure — Linux and Windows Server,
   virtualization, identity, networking, incident response — before moving to systems
@@ -63,8 +61,6 @@
 
   I build in public because infrastructure gets better when people can check it. Review the
   code, open an issue, or argue with me about a benchmark.
-
-  **Currently open to senior and lead infrastructure roles — fully remote.**
 
   [LinkedIn](https://www.linkedin.com/in/dreamddev/) · austin@botzr.com
 
