@@ -6,7 +6,7 @@ When an agent acts on something wrong, you should be able to find the memory beh
 
 Try it: `npx -y dreamd-mcp setup`
 
-Works with Claude Code, Cursor, Cline and other MCP harnesses. One local Rust binary, Apache-2.0 core, currently v1.2.0. I build it with my cofounder Joshua Beeney.
+Works with Claude Code, Cursor, Cline and other MCP harnesses. One local Rust binary, Apache-2.0 core, currently v1.3.0. I build it with my cofounder Joshua Beeney.
 
 Where it's going: a full runtime memory for agents and, later, robots, so they can actually learn over time. Robot support doesn't ship yet; the [roadmap](https://github.com/botzrDev/dreamd/blob/main/ROADMAP.md) says what's next.
 
