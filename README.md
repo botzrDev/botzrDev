@@ -1,12 +1,12 @@
 ### Hi, I'm Austin
 
-**Founder of [dreamd](https://github.com/botzrDev/dreamd).** I'm building long-term memory for AI agents that you can trace, review and roll back.
+**Infrastructure engineer at Botzr.** I work on [dreamd](https://github.com/botzrDev/dreamd), long-term memory for AI agents that you can trace, review and roll back.
 
 When an agent acts on something wrong, you should be able to find the memory behind it, see what else it fed, and take it out. dreamd makes that the default. Every memory is a line in a file in your repo, every lesson cites the events it came from, and each dream cycle commits to git, so you review what your agents learned like code.
 
 Try it: `npx -y dreamd-mcp setup`
 
-Works with Claude Code, Cursor, Cline and other MCP harnesses. One local Rust binary, Apache-2.0 core, currently v1.3.0. I build it with my cofounder Joshua Beeney.
+Works with Claude Code, Cursor, Cline and other MCP harnesses. One local Rust binary, Apache-2.0 core, currently v1.3.0. I work on it with Joshua Beeney.
 
 Where it's going: a full runtime memory for agents and, later, robots, so they can actually learn over time. Robot support doesn't ship yet; the [roadmap](https://github.com/botzrDev/dreamd/blob/main/ROADMAP.md) says what's next.
 
