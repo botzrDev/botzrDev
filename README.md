@@ -27,4 +27,4 @@ ORCID: [0009-0004-7989-2036](https://orcid.org/0009-0004-7989-2036)
 
 Ten years running production infrastructure, and before that squadron IT operations in the US Air Force. That is why my research is about what holds up when something goes wrong.
 
-austin@botzr.com · [LinkedIn]([LINK](https://www.linkedin.com/in/dreamddev/)) · [X]([LINK](https://x.com/botzr_research))
+austin@botzr.com · [LinkedIn]((https://www.linkedin.com/in/dreamddev/)) · [X]((https://x.com/botzr_research))
