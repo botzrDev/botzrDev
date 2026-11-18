@@ -17,12 +17,6 @@ ORCID: [0009-0004-7989-2036](https://orcid.org/0009-0004-7989-2036)
 - **[aegis](https://github.com/botzrDev/aegis)**: a reproducible runtime for testing what agent tool isolation actually guarantees. Rust on wasmtime, eight crates on crates.io.
 - **[mcp-guard](https://github.com/botzrDev/mcp-guard)**: a security gateway for MCP servers with authentication and per-tool authorization.
 
-[screenshot or GIF: `dreamd blame` tracing a bad memory to its source]
-
-### Open source contributions
-
-- [project]: [what you changed] ([PR link])
-
 ### Background
 
 Ten years running production infrastructure, and before that squadron IT operations in the US Air Force. That is why my research is about what holds up when something goes wrong.
